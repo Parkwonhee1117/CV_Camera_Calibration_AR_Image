@@ -108,7 +108,6 @@ frame = cv.add(bg, fg)
 
 * 체스보드 위에 캐릭터 이미지가 AR 형태로 표시됨
 * 카메라 움직임에 따라 자연스럽게 위치와 방향이 변함
-* 단순 평면이 아닌 **3D처럼 보이는 효과** 구현
 
 <img width="1235" height="611" alt="스크린샷 2026-04-13 214316" src="https://github.com/user-attachments/assets/855c782b-2639-40dc-947a-df0812053ec0" />
 <img width="1596" height="705" alt="스크린샷 2026-04-13 214322" src="https://github.com/user-attachments/assets/ce429da3-2107-42b6-836b-d04eb4e1661d" />
